@@ -6,8 +6,3 @@
  - [instagram]: @nguidjolmartin
 ### 😄 Pronouns: **No one**
 - ⚡ Fun fact: I do respect the CMR Principle of writing code `CMR : Clean Maintainable Reusable Code` !
-
-<!---
-nguidjolmartin4/nguidjolmartin4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
